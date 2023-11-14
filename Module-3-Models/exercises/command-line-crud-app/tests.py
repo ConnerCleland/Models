@@ -1,6 +1,5 @@
 import unittest
-from models import ItemManager
-from helpers import Item
+from models import ItemManager, Item
 
 
 class TestCRUDOperations(unittest.TestCase):
